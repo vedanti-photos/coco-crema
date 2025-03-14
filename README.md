@@ -1,4 +1,4 @@
-# coco-crema<html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +31,7 @@
         
         <img src="https://i.pinimg.com/236x/eb/81/61/eb8161bb957eae784d9de385a22c3ba1.jpg" alt="Coffee cup">
         </a>
-        <h2> Freshly made with LOVE! </h2
+        <h2> Freshly made with LOVE! </h2>
         <a href="https://i.pinimg.com/474x/18/39/9f/18399fe0e7d49969a34bc006c7296cc6.jpg">
         <img src="https://i.pinimg.com/474x/18/39/9f/18399fe0e7d49969a34bc006c7296cc6.jpg" alt="brunch">
         </a> 
