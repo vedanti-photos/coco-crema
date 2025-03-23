@@ -12,12 +12,14 @@
             <ul>
                 <li><a href="coffee.html">Home</a></li>
                 <li><a href="menu.html">Menu</a></li>
+                <li><a href="Discounts.html">Discounts</a></li>
+                <li><a href="Services.html">Transport Facilities</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
     </header>
-
+    
     <section class="hero">
         <h1 align="center">Welcome to the Coco Crema</h1>
         <div class="image-grid">
